@@ -20,5 +20,8 @@ npm run build
 npm run lint
 ```
 
+### Deploy
+[Link for test in production](https://goofy-shockley-6c5a59.netlify.app/)
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
