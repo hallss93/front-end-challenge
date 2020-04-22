@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 20" width="17" height="20">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1293 -184L67 -184L67 1231L-1293 1231Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #707070 } 
+	</style>
+	<g id="Tafefas - Versão BETA " clip-path="url(#cp1)">
+		<g id="Grupo 1879">
+			<path id="ic_notifications_active_24px" class="shp0" d="M14.97 8.5C14.97 5.43 13.33 2.86 10.47 2.18L10.47 1.5C10.47 0.67 9.8 0 8.97 0C8.14 0 7.47 0.67 7.47 1.5L7.47 2.18C4.6 2.86 2.97 5.42 2.97 8.5L2.97 13.5L0.97 15.5L0.97 16.5L16.97 16.5L16.97 15.5L14.97 13.5L14.97 8.5ZM8.97 19.5C9.11 19.5 9.24 19.49 9.37 19.46C10.02 19.32 10.55 18.88 10.81 18.28C10.91 18.04 10.96 17.78 10.96 17.5L6.96 17.5C6.97 18.6 7.86 19.5 8.97 19.5L8.97 19.5Z" />
+		</g>
+	</g>
+</svg>

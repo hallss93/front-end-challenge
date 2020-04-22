@@ -1,0 +1,8 @@
+//Functions
+@function animation-ease-in-out($property){
+  @return $property 0.3s ease-in-out;
+}
+
+@function animation-ease-out($property){
+  @return $property 0.3s ease-out;
+}

@@ -1,0 +1,17 @@
+.c-mark {
+  width: 100px;
+  border-radius: 10px;
+  height: 15px;
+  margin-left: -5px;
+  &.danger {
+    background-color: red;
+  }
+
+  &.success {
+    background-color: $green;
+  }
+
+  &.primary {
+    background-color: $primary;
+  }
+}

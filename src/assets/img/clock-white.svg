@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 24" width="19" height="24">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-484 -183L1467 -183L1467 964L-484 964Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #717277 } 
+	</style>
+	<g id="Kanban - Versão BETA " clip-path="url(#cp1)">
+		<path id="Caminho 1905" class="shp0" d="M18 16.88C18 16.88 18 7.83 18 5.28C18 2.73 17.16 7.72 15.1 7.72C13.05 7.72 4.47 7.7 2.86 7.72C1.25 7.73 1.28 9.27 1.28 9.27C1.28 9.27 1.27 19.22 1.28 21.67C1.29 24.12 1.64 20.29 3.58 20.29C5.52 20.29 7.81 20.29 7.81 20.29" />
+		<g id="Grupo 1605">
+			<path id="Caminho 1906" class="shp0" d="M10.92 14.06L10.92 18.21L4.29 18.21L4.29 10.12L14.98 10.12L14.98 15.18L13.89 15.18" />
+			<path id="Caminho 1909" class="shp0" d="M10.86 10.12L10.86 11.49" />
+		</g>
+		<path id="Caminho 1910" class="shp0" d="M13.08 7.74L13.08 2C13.08 2 17.93 1.79 17.88 5.42" />
+	</g>
+</svg>

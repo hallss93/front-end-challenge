@@ -1,0 +1,19 @@
+.o-img {
+  position: relative;
+  width: 100%;
+  height: auto;
+  opacity: 1;
+
+  &.small {
+    height: 25px;
+  }
+
+  &.radius {
+    border-radius: rem(4);
+  }
+
+  &.noPicture {
+    padding: rem(40);
+    background: $porcelain;
+  }
+}

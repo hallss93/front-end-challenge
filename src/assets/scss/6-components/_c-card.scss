@@ -1,0 +1,9 @@
+.c-card {
+  background: $white;
+  box-shadow: $box-shadow-main;
+  padding: 0 rem(16);
+  border-radius: rem(4);
+  &.absolute {
+    position: absolute;
+  }
+}

@@ -1,0 +1,29 @@
+.flex1 {
+  flex: 1;
+}
+.flex2 {
+  flex: 2;
+}
+.c-container-flex {
+  position: relative;
+  display: flex;
+
+  &.flex-end {
+    justify-content: flex-end;
+  }
+  &.space-between {
+    justify-content: space-between;
+  }
+  &.justify-center {
+    justify-content: center;
+  }
+  &.align-items-center {
+    align-items: center;
+  }
+  &.wrap {
+    flex-wrap: wrap;
+  }
+}
+.absolute {
+  position: absolute;
+}

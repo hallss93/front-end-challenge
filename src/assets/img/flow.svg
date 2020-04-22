@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-24 -899L1927 -899L1927 248L-24 248Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #6a1476 } 
+	</style>
+	<g id="Kanban - Versão BETA " clip-path="url(#cp1)">
+		<g id="flow">
+			<g id="Grupo 1728">
+				<g id="Grupo 1727">
+					<path id="Caminho 1983" fill-rule="evenodd" class="shp0" d="M10.5 7.5L0 7.5L0 0L10.5 0L10.5 3L12 3L12 4.5L10.5 4.5L10.5 7.5ZM9 1.5L1.5 1.5L1.5 6L9 6L9 1.5Z" />
+					<path id="Caminho 1984" fill-rule="evenodd" class="shp0" d="M13.5 16.5L24 16.5L24 24L13.5 24L13.5 21L12 21L12 19.5L13.5 19.5L13.5 16.5ZM15 22.5L22.5 22.5L22.5 18L15 18L15 22.5Z" />
+					<path id="Caminho 1985" class="shp0" d="M22.5 7.87C22.5 9.74 20.99 11.25 19.12 11.25L18.75 11.25L18.75 12.75L19.12 12.75C21.82 12.75 24 10.57 24 7.87C24 5.18 21.82 3 19.12 3L16.5 3L16.5 4.5L19.12 4.5C20.99 4.5 22.5 6.01 22.5 7.87Z" />
+					<path id="Retângulo 1974" class="shp0" d="M14 4L15 4L15 6L14 6L14 4Z" />
+					<path id="Caminho 1986" fill-rule="evenodd" class="shp0" d="M12 16.06L8.69 12.75L6.75 12.75L6.75 11.25L8.69 11.25L12 7.94L15.31 11.25L17.25 11.25L17.25 12.75L15.31 12.75L12 16.06ZM10.06 12L12 13.94L13.94 12L12 10.06L10.06 12Z" />
+					<path id="Caminho 1987" class="shp0" d="M1.5 16.12C1.5 14.26 3.01 12.75 4.87 12.75L5.25 12.75L5.25 11.25L4.87 11.25C2.18 11.25 0 13.43 0 16.12C0 18.82 2.18 21 4.87 21L7.5 21L7.5 19.5L4.87 19.5C3.01 19.5 1.5 17.99 1.5 16.12Z" />
+					<path id="Retângulo 1975" class="shp0" d="M8 20L11 20L11 21L8 21L8 20Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

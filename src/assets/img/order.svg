@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 21" width="28" height="21">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-22 -616L1338 -616L1338 2422L-22 2422Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #6a1476;stroke-width: 2 } 
+	</style>
+	<g id="Relatorio" clip-path="url(#cp1)">
+		<g id="Grupo 1602">
+			<path id="Linha 381" class="shp0" d="M15.39 4.11L25 4.11L15.39 4.11Z" />
+			<path id="Linha 382" class="shp0" d="M15.39 9.92L25 9.92L15.39 9.92Z" />
+			<path id="Linha 383" class="shp0" d="M15.39 16.58L25 16.58L15.39 16.58Z" />
+			<path id="Caminho 1898" class="shp0" d="M2 7.89L7.04 2.48L12.71 7.89" />
+			<path id="Caminho 1899" class="shp0" d="M12.71 13L7.67 18.41L2 13" />
+		</g>
+	</g>
+</svg>

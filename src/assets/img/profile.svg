@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 24" width="25" height="24">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-23 -239L1928 -239L1928 908L-23 908Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff;stroke: #6a1476;stroke-width: 1.5 } 
+		.shp1 { fill: #ffffff } 
+		.shp2 { fill: none;stroke: #6a1476;stroke-width: 1.5 } 
+	</style>
+	<g id="Kanban - Versão BETA " clip-path="url(#cp1)">
+		<g id="Grupo 1740">
+			<path id="Elipse 358" class="shp0" d="M23.06 17.99C19.78 23.68 12.52 25.63 6.83 22.34C1.14 19.06 -0.8 11.8 2.48 6.12C5.77 0.43 13.02 -1.52 18.71 1.77C24.4 5.05 26.34 12.31 23.06 17.99Z" />
+			<path id="Retângulo 1746" class="shp1" d="M17.22 4.73L20.45 1.5L24.98 6.02L21.75 9.25L17.22 4.73Z" />
+			<path id="Retângulo 1856" class="shp2" d="M13 4L13 4C14.66 4 16 5.34 16 7L16 9C16 10.66 14.66 12 13 12L13 12C11.34 12 10 10.66 10 9L10 7C10 5.34 11.34 4 13 4Z" />
+			<path id="Caminho 1924" class="shp2" d="M4.5 18.83C4.5 18.83 10.58 11.88 19.22 17.03" />
+		</g>
+	</g>
+</svg>

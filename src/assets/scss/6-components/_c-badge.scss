@@ -1,0 +1,41 @@
+.c-badge {
+  min-width: 72px;
+  height: 24px;
+  background: #e7ebf1 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  opacity: 1;
+  padding: 4px 9px;
+  text-align: center;
+
+  &.success {
+    background-color: $green;
+    color: $white;
+  }
+
+  &.primary {
+    background-color: $primary;
+    color: $white;
+  }
+
+  &.violet {
+    background-color: $violet-dark;
+    color: $white;
+  }
+  &.no-radius {
+    border-radius: rem(0);
+  }
+
+  &.left {
+    border-radius: 4px;
+    max-width: 400px;
+    width: 400px;
+    text-align: right;
+    font-weight: $fw-bold;
+    font-size: 14px;
+    padding: 10px;
+    height: 50px;
+    padding-top: 15px;
+    min-height: 36px;
+
+  }
+}

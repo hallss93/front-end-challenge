@@ -1,0 +1,47 @@
+$abbey: #5a5d61;
+$background-body: #e7eaec;
+$bk-gray-light: #f6f6f9;
+$bk-gray: #e7ebf1;
+$black: #000000;
+$color-success: #1fa982;
+$disabled: #b1b4b9;
+$gallery: #ebebeb;
+$gray-dark: #dde1e6;
+$green: #29b52e;
+$persian-green: #03b4ae;
+$porcelain: #eaeef3;
+$primary: #364299;
+$prussian-blue: #002d44;
+$red-ribbon: #dc0933;
+$silver: #c2c2c2;
+$violet-dark: #84037e;
+$violet: #c183bf;
+$white: #ffffff;
+
+
+// Gradients
+$gradient-secondary: transparent
+  linear-gradient(180deg, #6b0505c4 0%, #7903039c 100%) 0% 0% no-repeat
+  padding-box;
+
+//Box-shadow
+$box-shadow-main: 0px 3px 6px #00000029;
+
+.bk-gray {
+  background-color: $bk-gray;
+}
+.bk-gray-light {
+  background-color: $bk-gray-light;
+}
+.violet {
+  color: $violet;
+}
+.violet-dark {
+  color: $violet-dark;
+}
+.black {
+  color: $black;
+}
+.bk-white {
+  background-color: $white;
+}

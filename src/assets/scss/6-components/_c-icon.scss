@@ -1,0 +1,90 @@
+.c-icon {
+  height: 20px;
+  width: 20px;
+  font-size: 16px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+  &.pointer {
+    cursor: pointer;
+  }
+
+  &.clock {
+    background-image: url("./../img/clock-paper.svg");
+  }
+
+  &.clock-white {
+    background-image: url("./../img/clock-white.svg");
+  }
+
+  &.user {
+    background-image: url("./../img/user.svg");
+  }
+
+  &.user-white {
+    background-image: url("./../img/user-white.svg");
+  }
+
+  &.dolar {
+    background-image: url("./../img/dolar.svg");
+  }
+
+  &.time {
+    background-image: url("./../img/time.svg");
+  }
+
+  &.time-white {
+    background-image: url("./../img/time-white.svg");
+  }
+
+  &.filter {
+    background-image: url("./../img/filter.svg");
+  }
+
+  &.light {
+    background-image: url("./../img/light.svg");
+  }
+
+  &.search {
+    background-image: url("./../img/search.svg");
+  }
+
+  &.comment {
+    background-image: url("./../img/comment.svg");
+  }
+
+  &.tick {
+    background-image: url("./../img/tick.svg");
+  }
+
+  &.from {
+    background-image: url("./../img/from.svg");
+  }
+
+  &.back {
+    background-image: url("./../img/back.svg");
+  }
+
+  &.gatilho {
+    background-image: url("./../img/gatilho.svg");
+  }
+
+  &.indent-increase {
+    background-image: url("./../img/indent-increase.svg");
+  }
+
+  &.user-logo {
+    background-image: url("./../img/user-logo.svg");
+  }
+
+  &.large {
+    height: 40px;
+    width: 40px;
+    font-size: 16px;
+  }
+
+  &.left {
+    top: 20px;
+    margin-left: 10px;
+  }
+}

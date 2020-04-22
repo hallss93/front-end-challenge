@@ -1,0 +1,27 @@
+.o-list {
+  &.disc {
+    :not(:first-child) {
+      color: #03b4ae;
+      list-style-type: disc;
+    }
+  }
+  li {
+    &:not(:first-child) {
+      margin-left: 30px;
+    }
+  }
+
+  &.flex {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  &.o-list-card {
+    padding: rem(5);
+
+    &:not(:first-child) {
+      border-top: 0.5px solid $silver;
+    }
+  }
+}

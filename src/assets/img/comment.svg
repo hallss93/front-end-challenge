@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 15" width="18" height="15">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1222 -507L138 -507L138 908L-1222 908Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #707070;stroke-width: 0.8 } 
+	</style>
+	<g id="Tafefas - Versão BETA " clip-path="url(#cp1)">
+		<g id="Grupo 2680">
+			<g id="Grupo de máscara 161">
+				<g id="Componente 42 – 1">
+					<g id="Grupo 1877">
+						<path id="love-like-popular-favorite" class="shp0" d="M15.33 1.5L2.26 1.5C1.57 1.5 1 2.06 1 2.76L1 9.08C1 9.78 1.57 10.34 2.26 10.34L4.74 10.34L4.74 13.28L7.31 10.34L15.33 10.34C16.03 10.34 16.59 9.78 16.59 9.08L16.59 2.76C16.59 2.06 16.03 1.5 15.33 1.5Z" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

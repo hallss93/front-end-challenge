@@ -1,0 +1,46 @@
+.o-button {
+  border-radius: rem(4);
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  display: inline-block;
+  outline: none;
+  padding: rem(7) rem(28);
+  text-decoration: none;
+  transition: opacity 300ms ease;
+  &.concluir {
+    background-color: #2ad0a7;
+    color: $white;
+    border-radius: 16px;
+  }
+  &.plus {
+    border-radius: rem(30);
+    width: rem(80);
+    text-align: center;
+    border: 1px solid black;
+  }
+  &.normal-radius {
+    background-color: $violet-dark;
+    border-radius: rem(2);
+    border: 1px solid $violet-dark;
+    color: $white;
+    font-size: rem(13);
+    min-width: rem(120);
+    text-align: center;
+    &.disabled {
+      background-color: $gray-dark;
+      border: 1px solid $gray-dark;
+      color: $disabled;
+    }
+    &.black {
+      background-color: $black;
+      border: 1px solid $white;
+      color: $white;
+    }
+  }
+}
+.o-button:active,
+.o-button:hover {
+  opacity: 0.7;
+  transition: opacity 300ms ease;
+}

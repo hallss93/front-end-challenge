@@ -1,0 +1,86 @@
+.o-text {
+  font-size: rem(14);
+  font-weight: $fw-regular;
+  line-height: 1.3;
+  margin: 0;
+
+  &.silver {
+    color: $silver;
+  }
+
+  &.green {
+    color: $persian-green;
+  }
+
+  &.white {
+    color: $white;
+  }
+
+  &.inline {
+    display: inline-block;
+  }
+
+  &.bold {
+    font-weight: $fw-bold;
+  }
+
+  &.medium {
+    font-weight: $fw-medium;
+  }
+
+  &.semi-bold {
+    font-weight: $fw-semi-bold;
+  }
+
+  &.smaller {
+    font-size: rem(11);
+  }
+
+  &.small {
+    font-size: rem(12);
+  }
+
+  &.large {
+    font-size: rem(16);
+  }
+
+  &.huge {
+    font-size: rem(18);
+  }
+
+  &.gigant {
+    font-size: rem(20);
+  }
+
+  &.xl {
+    font-size: rem(24);
+  }
+
+  &.right {
+    float: right;
+  }
+
+  &.left {
+    float: left;
+  }
+
+  &.center {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  &.w-165 {
+    max-width: rem(165);
+  }
+
+  &.w-120 {
+    max-width: rem(120);
+  }
+
+  &.ellipsis {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+}
